@@ -28,6 +28,10 @@
   startingInventory:
     PassengerPDA: 5
     ClearPDA: 5
+    MedicalPDA: 5
+    EngineerPDA: 5
+    ServiceWorkerPDA: 5
+    CargoPDA: 5
     PassengerIDCard: 5
     ClothingHeadsetGrey: 5
     RubberStampApproved: 1
@@ -42,8 +46,17 @@
     EncryptionKeyScience: 2
     EncryptionKeySecurity: 1
     EncryptionKeyService: 3
+    ClothingHeadsetScience: 2
+    ClothingHeadsetService: 2
+    ClothingHeadsetCargo: 2
+    ClothingHeadsetMedical: 2
   contrabandInventory:
+    QuartermasterPDA: 1
+    RnDPDA: 1
+    CMOPDA: 1
+    CEPDA: 1
     BalloonNT: 2
     LuxuryPen: 1
   emaggedInventory: # Goobstation
     AgentIDCard: 1
+    SyndiPDANukie: 1
